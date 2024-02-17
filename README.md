@@ -1,2 +1,2 @@
 # RandomColorGenerater
-Display random color with their rgb and hex colorcodes using javascript
+Display random color with their RGB and HEX value using javascript
